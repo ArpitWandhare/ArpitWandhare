@@ -11,8 +11,6 @@
 </div>
 <br/>
 <img src="./assets/Arpit_Github_Banner.png" alt="Github Banner" />
-<br/>
-
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech in Computer Technology (2025) | Passionate about building full stack web apps using the MERN stack.
