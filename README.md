@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=ArpitWandhare&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 <br/>
-<img src="./Assets/Arpit_GitHub_Banner.png" alt="Github Banner" />
+<img src="./assets/Arpit_Github_Banner.png" alt="Github Banner" />
 <br/>
 
 
