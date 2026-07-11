@@ -45,14 +45,24 @@
 ## 🚀 Featured Projects
 
 | Project | Stack | Description |
-|--------------------|----------|---------------|
+|--------|-------|-------------|
+| 🌍 [WanderWorld](https://github.com/ArpitWandhare/wanderworld) | Node.js, Express, MongoDB, EJS | Full-stack travel accommodation platform with authentication, Mapbox API & Cloudinary image uploads |
+| ☁️ [React Weather Widget](https://github.com/ArpitWandhare/react-weather-widget) | React, Material UI, OpenWeather API | Search-based live weather widget displaying temperature, humidity, and icons dynamically |
+| 🎮 [Simon Says Game](https://github.com/ArpitWandhare/Simon-Says-Game) | HTML, CSS, JavaScript | Memory-based interactive game that highlights sequences and tracks levels and score |
+| 🎧 [Spotify Web UI Clone](https://github.com/ArpitWandhare/spotify-clone-html-css) | HTML, CSS | Frontend clone of Spotify’s UI with scrollable sidebar, responsive layout, and music player design |
 | 📷 [Photography Sidebar UI](https://github.com/ArpitWandhare/photography-sidebar-ui) | HTML, CSS | Sidebar layout for a photography-themed landing page with hover effects and menu transitions |
+| 💌 [Newsletter Subscription Card](https://github.com/ArpitWandhare/newsletter-tailwind) | Tailwind CSS | Simple and clean newsletter subscription UI component built using Tailwind utility classes |
+
+🔗 **More projects on my [GitHub Repos](https://github.com/ArpitWandhare?tab=repositories)**
+
 
 ## 🔰 Let's Connect:
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-wandhare)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wandhare_arpit)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:call2arpitwandhare212@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arpitwandhare-portfolio.netlify.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitwandhare)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Arpit_02/)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/wandhare_arpit)
 
 ---
 
